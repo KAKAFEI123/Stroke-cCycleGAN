@@ -1,4 +1,4 @@
-## Stroke-cCycleGAN for dynamic signature verification.
+## Stroke-cCycleGAN for realistic offline signature generation.
 
 This repository presents the inference code of Stroke-cCycleGAN [1] for stroke-informed online-to-offline signature conversion. The Stroke-cCycleGAN was inspired from CycleGAN [2,4]. Before using this repository to generate realistic handwritten signatures, you should first download the DeepSignDB online signature database [3], and render the data into skeleton images using OpenCV library. 
 
