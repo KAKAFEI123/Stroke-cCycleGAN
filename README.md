@@ -12,7 +12,7 @@ See requirements.txt.
 
 ### References
 
-[1] Stroke-informed Signature Generation for Forgery-free Representation Learning.   
+[1] Forgery-free Signature Verification with Stroke-aware Cycle-consistent Generative Adversarial Network.   
 
 [2] Zhu J Y, Park T, Isola P, et al. Unpaired image-to-image translation using cycle-consistent adversarial networks[C]//Proceedings of the IEEE international conference on computer vision. 2017: 2223-2232.
 
