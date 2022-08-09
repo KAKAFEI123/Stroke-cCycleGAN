@@ -12,7 +12,7 @@ See requirements.txt.
 
 ### References
 
-[1] Forgery-free Signature Verification with Stroke-aware Cycle-consistent Generative Adversarial Network.   
+[1] Jiang J, Lai S, Jin L, et al. Forgery-free Signature Verification with Stroke-aware Cycle-consistent Generative Adversarial Network[J]. Neurocomputing, 2022.   
 
 [2] Zhu J Y, Park T, Isola P, et al. Unpaired image-to-image translation using cycle-consistent adversarial networks[C]//Proceedings of the IEEE international conference on computer vision. 2017: 2223-2232.
 
@@ -24,6 +24,16 @@ See requirements.txt.
 ### Citation and Contacts
 
 Please consider to cite our paper if you find the code useful.
+
+```
+@article{jiang2022forgery,
+  title={Forgery-free Signature Verification with Stroke-aware Cycle-consistent Generative Adversarial Network},
+  author={Jiang, Jiajia and Lai, Songxuan and Jin, Lianwen and Zhu, Yecheng and Zhang, Jiaxin and Chen, Bangdong},
+  journal={Neurocomputing},
+  year={2022},
+  publisher={Elsevier}
+}
+```
 
 For any questions about the codes, please contact the authors by sending emails to Prof. Jin (eelwjin@scut.edu.cn) or Jiajia Jiang (jiajiajiang123@qq.com).
 
